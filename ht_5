@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="ht_5.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.5/css/weather-icons.min.css">
+</head>
+<body>
+
+<main class="forecast-tab">
+    <div class="tab-name">
+
+         <p class="tab-name-settinds">CSS Weather Forecast
+         <i class="wi wi-day-haze"></i> </p>
+    </div>
+
+    <div class="tab-body">
+    <div class="wrapper">
+        
+
+        <ul>
+            <li class="current-city " id="Lisbon">
+                
+                    Lisbon <br>21°C <i class="wi wi-day-sunny"></i>
+                
+            </li>
+            <li class="current-city " id="Paris">
+                    Paris <br>11°C <i class="wi wi-rain-wind"></i>
+                
+            </li>
+            <li class="current-city " id="Belgrade">
+                    Belgrade <br>15°C<i class="wi wi-day-cloudy"></i>
+                
+            </li>
+
+            
+            
+            <li class="current-city " id="Moscow">
+                    Moscow<br>21°C<i class="wi wi-day-cloudy-high"></i>
+                
+            </li>
+            <li class="current-city " id="Tel-Aviv">
+                    Tel Aviv<br>32°C<i class="wi wi-hot"></i>
+            </li>
+            <li class="current-city " id="Cairo">
+                    Cairo <br>21°C<i class="wi wi-day-sunny"></i>
+            
+            </li>
+            <li class="current-city " id="New-York">
+                New York<br>17°C<i class="wi wi-day-sleet-storm"></i>
+            </li>
+
+
+            <li class="current-city " id="New-Delhi">
+                    New Delhi <br>17°C<i class="wi wi-rain-wind"></i>
+            
+             </li>
+            <li class="current-city " id="San-Francisco">
+                    San Francisco<br>15°C<i class="wi wi-day-cloudy"></i>
+            </li>
+            <li class="current-city " id="Tokyo">
+            Tokyo<br>8°C<i class="wi wi-night-clear"></i>
+            </li>
+
+           
+            
+            
+            <li class="current-city " id="Sydney">
+                Sydney<br>25°C<i class="wi wi-night-partly-cloudy"></i>
+            </li>
+
+            </ul>
+     
+    </div>
+    
+        
+    </div>
+        
+
+    
+
+    <div class="tab-footer">
+         <p class="tab-footer-wish">Have a nice day and don't forget umbrella if you are in Delhi now</p>
+    </div>
+
+
+
+
+
+
+
+</main>
+
+
+
+
+    
+</body>
+</html>
